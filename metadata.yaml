@@ -1,0 +1,34 @@
+_repo: Les-Contemporains-6-me-S-rie--13--tudes-et-Portraits-Litt-raires_28286
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lemaître, Jules
+    alias: Lemaitre, Jules
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '5505'
+    url: http://www.gutenberg.org/2009/agents/5505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
+    - http://fr.wikipedia.org/wiki/Jules_Lemaitre
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28286'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 19th century -- History and criticism'
+- !lcsh 'Authors, French'
+- !lcc 'PQ'
+tableOfContents: Louis Veuillot -- Lamartine -- Influence récente des littératures
+  du Nord -- Figurines -- Guy de Maupassant -- Anatole France.
+title: "Les Contemporains, 6ème Série\r\nÉtudes et Portraits Littéraires"
+url: http://www.gutenberg.org/ebooks/28286
